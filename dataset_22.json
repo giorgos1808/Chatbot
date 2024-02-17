@@ -1,0 +1,1403 @@
+{"intents": [
+  {"tag": "yes",
+   "patterns": ["Was Volta an Italian physicist?", "Was Volta an Italian physicist?", "Did Volta have a passion for the study of electricity?", "Did Volta have a passion for the study of electricity?", "Is it a disadvantage for something to be unsafe to handle?", "Is it a disadvantage for something to be unsafe to handle?", "Was Lombardy under Napoleon's rule in 1800?", "Was Lombardy under Napoleon's rule in 1800?", "Was the Italian 10.000 lira banknote created before the euro?", "Was the Italian 10.000 lira banknote created before the euro?", "Before 1796, was Lombardy ruled by Austria?", "Was Amedeo Avogadro Italian?", "Did Amedeo Avogadro graduate?", "Hence , can relative molecular masses be calculated from the masses of gas samples ?", "Was celsius born in Uppsala  in Sweden?", "Is The Celsius  crater  on the Moon named after him?", "Was Anders Celsius  ( November 27 ,  1701  April 25 ,  1744  ) a Swedish  astronomer?", "Was Anders Celsius the first  to perform  and  publish  careful experiments  aiming at the definition  of an international  temperature  scale  on scientific grounds?", "Was he professor at Uppsala University?", "Is it true that he published a collection of 316 observations?", "Have many European languages borrowed numerous words from it?", "Are pronouns in Literary Arabic marked for person , number and gender ?", "However , are non-human plural nouns grammatically considered to be feminine singular ?", "Is a bee an insect?", "Are bees related to ants?", "Have managed populations of European honey bees experienced substantial declines?", "Does Beijing mean northern capital?", "Are the caves of Dragon Bone Hill near the village of Zhoukoudian in Fangshan District?", "Are hutongs disappearing?", "Was Blaise Pascal a mathematician of the first order?", "Was Blaise Pascal a mathematician of the first order?", "Has the name Pascal been given to the SI unit of pressure?", "Has the name Pascal been given to the SI unit of pressure?", "Aside from the Provincial Letters' religious influence, were they popular as a literary work?", "Aside from the Provincial Letters' religious influence, were they popular as a literary work?", "Is the violin cello a bowed string instrument?", "Is there cello in performances by Rihanna?", "Are cellos constructed with glue?", "Are cellos constructed with glue?", "Is the cello a stringed instrument?", "Is the cello a stringed instrument?", "Was The SI  unit  of charge , the  coulomb , named after him?", "Was coulomb born in Angoulême,  France ,  to a well  to do  family?", "Is coulomb distinguished in the history  of mechanics  and  of electricity and  magnetism?", "Was Charles Augustin  de Coulomb  ( born  June  14 ,  1736 ,  Angoulême ,  France  -  died August 23 ,  1806 ,  Paris ,  France  ) a French  physicist?", "Does Coulomb leave a legacy?", "Did he publish an important investigation of the laws of friction?", "Was Coulomb born in Angoulême, France, to a well to do family?", "Was his father inspector of the Royal Fields?", "Is it true that coulomb leaves a legacy as a hero?", "Are The modern Chinese dialects more like a family?", "Is it true that one-fifth of world population speak some form of Chinese?", "Can the origins of cymbals be traced back to prehistoric times?", "Did the modern hi-hat evolve from clash cymbals?", "Is the stressed  syllable called the nuclear  syllable?", "Are books, magazines, and newspapers written in English available?", "Is the syntax of German different with different rules?", "Here , are all syllables unstressed , except the syllables/words best and done , which are stressed ?", "Are many words describing the navy , types of ships , and other objects or activities on the water of dutch origin ?", "Are local variations in the formal written version of the language quite limited , being restricted largely to the spelling differences between British and American English ?", "Does the diet of foxes include reptiles?", "Is german an inflected  language?", "Are there two common  word  orders?", "Are there also large populations of German ancestry In Mexico?", "Would Bundesländer not accept North Rhine Westphalia and Bavaria ?", "Do both sexes of giraffe have horns?", "Do giraffes give birth standing up?", "Do male giraffes weigh more than female giraffes?", "Do most Japanese people employ politeness?", "Is it true that Japanese borrowed a considerable number of words?", "Are the several dialects of Kagoshima famous to speakers?", "Was Michael Faraday an English chemist?", "Was Michael Faraday an English chemist?", "Was Faraday a devout Christian?", "Was Faraday a devout Christian?", "Who was a member of the Sandemanian sect of Christianity?", "Did Faraday construct the ancestor of modern power generators?", "Did Faraday construct the ancestor of modern power generators?", "Did Faraday lecture on education in 1854?", "Did Faraday lecture on education in 1854?", "Did Faraday discover the chemical substance benzene?", "Did Faraday discover the chemical substance benzene?", "Was Faraday born in England?", "Was Faraday born in England?", "Does the production of chemical weapons raise an ethical issue?", "Can you meet someone through attending a church?", "Was education another area  of service  for Faraday?", "Was his father member of the Sandemanian sect?", "Was faraday Christian of the small Sandemanian denomination?", "Was Nassau placed in operation by Robert Fulton?", "Is Nassau County named after a German town?", "Does the United States have a base near Glasgow?", "Did Tesla study electrical engineering?", "Was Tesla hired by Edison?", "Was Tesla regarded as a mad scientist?", "Is Ottawa on a river?", "Is Ottawa on a river?", "Does it snow in Ottawa?", "Does it snow in Ottawa?", "Was there a cholera outbreak in 1832?", "Was there a cholera outbreak in 1832?", "Does the giant otter live in South America?", "Do otters have claws?", "Do otters eat fish?", "Do otters enjoy playing?", "Is the otter in the same family as the badger?", "Are there any cities named Santiago in the United States?", "Was Santiago the name of an indie/punk band?", "Is Santiago a name in Spanish?", "Does the Australian Black Swan have white feathers on its wings?", "Do swans belong to the family Anatidae?", "Can black swans swim with only one leg?", "Do Terrestrial tortoises have short feet?", "Are tortoises land based?", "Is turtle soup considered a delicacy?", "Are Testudines the crown group of the superorder Chelonia?", "Do turtles breathe air?", "Are harvesting wild turtles legal anywhere?", "Is there a way to approximate the age of a turtle?", "Are violas and cellos in the same family of instruments as violins?", "Are xylophone bars made of rosewood?", "Is the xylophone a precursor to the vibraphone?", "Can a xylophone be 3 octaves?", "Did vibraphones exist in 1930?" ],
+   "responses": ["yes"]
+  },
+  {"tag": "no",
+   "patterns": ["Is Volta buried in the city of Pittsburgh?", "Is Volta buried in the city of Pittsburgh?", "Did Alessandro Volta live to be 80 years old?", "Was Amedeo Avogadro born in North America?", "Can syllables begin with a vowel?", "Could Blaise Pascal move without crutches?", "Did Charles-Augustin de Coulomb live to be 80 years old?", "Was Old Chinese wholly uninflected?", "Is english a de  jure  official  language  of Israel?", "Are fennec foxes endangered?", "In Switzerland, is ß used at all?", "Are feminines declined in the singular?", "Is 9 %  of the Internet  population German?", "Does a  tz indicate that the preceding vowel is short?", "Did Henri Becquerel live to be 80 years old?", "Was Faraday considered a gentleman?", "Was Faraday considered a gentleman?", "Did Faraday receive an extensive formal education?", "Did Faraday receive an extensive formal education?", "Is it true that institution formed the foundation of electric motor technology?", "Is Nassau Sound a body of water in Maine?", "Is Nassau Range the highest mountain range in the world?", "Was Tesla born in the United States?", "Do sea otters have a layer of fat like whales?", "Can turtles spend all their time underwater?", "Are violins a single size?", "Were ancient mallets made of copper?", "Can a short bar follow a long bar?" ],
+   "responses": ["no"]
+  },
+  {"tag": "the first cell",
+   "patterns": ["What is the battery made by Volta credited to be?", "What is the battery made by Volta credited to be?" ],
+   "responses": ["the first cell"]
+  },
+  {"tag": "the volt",
+   "patterns": ["What important electrical unit was named in honor of Volta?" ],
+   "responses": ["the volt"]
+  },
+  {"tag": "volt",
+   "patterns": ["What important electrical unit was named in honor of Volta?" ],
+   "responses": ["volt"]
+  },
+  {"tag": "Spain",
+   "patterns": ["Where did Volta enter retirement?", "Where did Volta enter retirement?" ],
+   "responses": ["Spain"]
+  },
+  {"tag": "53",
+   "patterns": ["For how many years did Alessandro Volta live?", "How old was Henri Becquerel when he died?" ],
+   "responses": ["53"]
+  },
+  {"tag": "physisist",
+   "patterns": ["What was Alessandro Volta`s profession?", "What was Henri Becquerel`s profession?" ],
+   "responses": ["physisist"]
+  },
+  {"tag": " 82",
+   "patterns": ["How old was Alessandro Volta when he died?" ],
+   "responses": [" 82"]
+  },
+  {"tag": "215",
+   "patterns": ["How many years ago was it when Volta married the daughter of Count Ludovico Peregrini , Teresa , with whom he raised three sons?" ],
+   "responses": ["215"]
+  },
+  {"tag": "Yes",
+   "patterns": ["Is the electrolyte sulphuric acid?", "Is volta buried in the city  of Como?", "Was his 1800  paper written in French?", "Did he receive the Society`s 1794 Copley Medal?", "Did he experiment with individual cells?", "Did he become professor of experimental physics at the University of Pavia?", "Is it true that his passion been always the study of electricity?", "Is it true that Volta married the daughter of Count Ludovico Peregrini?", "Is it true that he published his invention of the Voltaic pile battery?", "Was Amedeo Avogadro Italian?", "Did Amedeo Avogadro graduate?", "Was King Victor  Emmanuel  III there to pay  homage  to Avogadro?", "In fact, was Avogadro `s  famous  1811  paper written in French . )", "Is avogadro `s  number commonly used to compute  the results  of chemical reactions?", "Hence, can relative molecular  masses be calculated from the masses  of gas samples?", "Did he publish his work?", "Is it true that loschmidt calculated first the value of Avogadro number?", "Are calligraphers held in great esteem?", "Are famous middle  schools  in Beijing :?", "Is the violin cello a bowed string instrument?", "Is there cello in performances by Rihanna?", "Was Charles-Augustin de Coulomb a member of the National Institute?", "Was Charles-Augustin de Coulomb a member of the National Institute?", "Was Charles-Augustin de Coulomb's father's family in Montpellier? ", "Was Charles-Augustin de Coulomb's father's family in Montpellier? ", "When was Charles-Augustin de Coulomb permanently stationed in Paris?", "Was his father ,  Henri  Coulomb , inspector of the Royal  Fields  in Montpellier?", "Have cymbals been used historically to suggest bacchanal?", "Have cymbals been used historically to suggest bacchanal?", "Can the origins of cymbals be traced to prehistoric times?", "Can the origins of cymbals be traced to prehistoric times?", "Are cymbals used in moden orchestras?", "Are cymbals used in moden orchestras?", "Can the origins of cymbals be traced back to prehistoric times?", "Did the modern hi-hat evolve from clash cymbals?", "Is Dhaka the capital of Bangladesh?", "Is Dhaka located on the eastern banks of the Buriganga River?", "Is University of Dhaka the largest public university in Dhaka?", "Did the Mughals arrive in Dhaka?", "Is english an intonation  language?", "Does english grammar have minimal inflection?", "Did old English develop into Middle English?", "Is the flute a musical instrument?", "Is it possible to open flutes at one or both ends?", "Are Indian concert flutes available in standard pitches?", "Are foxes wary of humans?", "Are foxes wary of humans?", "Does the diet of foxes include reptiles?", "In Old French, was the plural  for animal animals?", "Is catalan the only  official  language  of Andorra?", "In Belgium, however, is quatre-vingts universally used?", "Is french taught in many schools as a primary language along with Arabic?", "Is french descendant of the Latin language?", "Are there also a variety of regional languages In addition?", "Is it true that france signed the European Charter for Regional Languages?", "Are the prefixes en- and em- always nasalized ?", "Is german written using the Latin  alphabet?", "Was the Luther Bible by Martin Luther printed?", "Are there 622,650 speakers of German In Canada?", "Have adverbs of time to appear in the third place in the sentence , just after the predicate ?", "Do both sexes of giraffe have horns?", "Do giraffes give birth standing up?", "Are giraffes hunted for their hides?", "Are giraffes hunted for their hides?", "Do male giraffes weigh more than female giraffes?", "Do male giraffes have larger horns than female giraffes?", "Do male giraffes have larger horns than female giraffes?", "Are male females generally taller than female giraffes?", "Was Henri Becquerel one of the discoverers of radioactivity?", "Was Henri Becquerel one of the discoverers of radioactivity?", "Is the SI unit for radioactivity named after him?", "Is the SI unit for radioactivity named after him?", "Was Henri Becquerel a French physicist?", "Was Henri Becquerel a French physicist?", "In 1908, the year  of his death, was Becquerel elected Permanent Secretary  of the Académie  des  Sciences?", "Did he become chief engineer in the Department of Bridges and Highways?", "Did he share the Nobel Prize in Physics?", "Is it true that Becquerel wrapped a fluorescent substance in photographic plates?", "Is there a Becquerel crater on the Moon for radioactivity?", "Must … One conclude from these experiments that the phosphorescent substance in question emits rays which pass through the opaque paper and reduces silver salts ?", "Was Newton a English physicist?", "Is London the capital of the United Kingdom?", "Is London the capital of the United Kingdom?", "Does London's population draw from a wide range of religions?", "Does London's population draw from a wide range of religions?", "Are the strings of a classical lyre made of gut?", "Does a classical lyre have a sound-chest?", "Does a classical lyre have a fingerboard?", "Is a guitar played with a plectrum like a lyre?", "Was faraday `s  earliest  chemical  work as an assistant  to Davy?", "Did Tesla study electrical engineering?", "Was Tesla hired by Edison?", "Was Tesla regarded as a mad scientist?", "Is Ottawa the capital of Canada?", "Does Ottawa sit on the Ottowa River?", "Do small tremors occur in Ottawa?", "Is Ottawa colder than Moscow in January?", "Does the giant otter live in South America?", "Do otters have claws?", "Do otters eat fish?", "Do otters enjoy playing?", "Is the otter in the same family as the badger?", "Are there any cities named Santiago in the United States?", "Was Santiago the name of an indie/punk band?", "Is Santiago a name in Spanish?", "Is Santiago the national capital of a country?", "Is santiago Spanish for St. James  ( from santo ,  saint  +  iago ,  James  )?", "Is santiago Spanish for St. James?", "Is a third  prefix the object  prefix?", "Is      / ref Swahili unusual among sub-Saharan languages?", "Are vowels never reduced , regardless of stress ?", "Does the Australian Black Swan have white feathers on its wings?", "Do swans belong to the family Anatidae?", "Can black swans swim with only one leg?", "Are swan birds of the family Anatidae?", "Do swans feature strongly in mythology?", "Are swans and ducks birds of the same family?", "Are tigers solitary animals?", "Would it be common for tigers to mate in January?", "Would a tiger be likely to feedon smaller animals, such as mice?", "Are trumpets constructed of brass?", "Did Miles Davis play the trumpet?", "Are Testudines the crown group of the superorder Chelonia?", "Do turtles breathe air?", "Is there a way to approximate the age of a turtle?", "Are violinists and fiddlers the same thing?", "Are violinists and fiddlers the same thing?", "Are violas and cellos in the same family of instruments as violins?" ],
+   "responses": ["Yes"]
+  },
+  {"tag": "From 1796 to 1815",
+   "patterns": ["When did lombardy come under Napoleon`s rule?" ],
+   "responses": ["From 1796 to 1815"]
+  },
+  {"tag": "the Philosophical Transactions of the Royal Society",
+   "patterns": ["Where did he publish his invention of the Voltaic pile battery?" ],
+   "responses": ["the Philosophical Transactions of the Royal Society"]
+  },
+  {"tag": "Electricity",
+   "patterns": ["His passion been always the study of what?" ],
+   "responses": ["Electricity"]
+  },
+  {"tag": "No",
+   "patterns": ["Did Avogadro live in England?", "Is the purfling just for decoration?", "Are the z-holes used as access points to the interior of the cello? ", "Are the z-holes used as access points to the interior of the cello? ", "Did Charles-Augustin de Coulomb find any relationship between electric charges and magnetic poles? ", "Did Charles-Augustin de Coulomb find any relationship between electric charges and magnetic poles? ", "Is Copenhagen completely surrounded with water? ", "Is the word cymbal derived from a Germanic word?", "Is the word cymbal derived from a Germanic word?", "Is University of Dhaka older than the Dhaka College?", "Are fennec foxes endangered?", "Do foxes damage fruit on farms?", "Was Henri Becquerel first in his family to occupy the physics chair at the Museum National d'Histoire Naturelle?", "Was Henri Becquerel first in his family to occupy the physics chair at the Museum National d'Histoire Naturelle?", "Was Henri Becquerel the sole winner of the 1903 Nobel Prize in Physics?", "Was Henri Becquerel the sole winner of the 1903 Nobel Prize in Physics?", "Did Henri Becquerel intentionally discover radioactivity?", "Did Caunte take control of the English throne in 101?", "Is lyre played in mordern Greece?", "Was Tesla born in the United States?", "Do sea otters have a layer of fat like whales?", "Has swahili no diphthongs?", "Is the Tiger a member of the Felidar family?", "Are panthers a type of tiger?", "Did the predecessors to trumpets have valves?", "Is the bass trumpet the smallest trumpet?", "Does a trumpet have a mellower tone than a cornet?", "Can turtles spend all their time underwater?", "Are violins a single size?" ],
+   "responses": ["No"]
+  },
+  {"tag": "University of Turin",
+   "patterns": ["Where was Avogadro a professor of physics?", "Where was Avogadro a professor of physics?" ],
+   "responses": ["University of Turin"]
+  },
+  {"tag": "six",
+   "patterns": ["How many children did Avogadro have?", "How many children did Avogadro have?" ],
+   "responses": ["six"]
+  },
+  {"tag": "contributions to the theory of molarity and molecular weight",
+   "patterns": ["What is Avogadro most noted for?", "What is Avogadro most noted for?" ],
+   "responses": ["contributions to the theory of molarity and molecular weight"]
+  },
+  {"tag": "6.02214199x10 23",
+   "patterns": ["What is Avogadro's number?", "What is Avogadro's number?" ],
+   "responses": ["6.02214199x10 23"]
+  },
+  {"tag": "1853",
+   "patterns": ["In what year did Avogadro stop teaching at Turin University?" ],
+   "responses": ["1853"]
+  },
+  {"tag": "1823",
+   "patterns": ["In what year did Avogadro stop teaching at Turin University?" ],
+   "responses": ["1823"]
+  },
+  {"tag": "ecclesiastical law",
+   "patterns": ["What subject did Avogadro study first?", "What subject did Avogadro study first?" ],
+   "responses": ["ecclesiastical law"]
+  },
+  {"tag": "Turin",
+   "patterns": ["What was Amedeo Avogadro`s birthplace?" ],
+   "responses": ["Turin"]
+  },
+  {"tag": "professor of physics",
+   "patterns": ["What was Amedeo Avogadro`s profession?" ],
+   "responses": ["professor of physics"]
+  },
+  {"tag": "189",
+   "patterns": ["How many years ago was it when he became a professor of physics at the University of Turin?", "How many years ago did Faraday report on the first synthesis of compound make from carbon and chlorine , c 2 h 6 and c 2 h 4 ?" ],
+   "responses": ["189"]
+  },
+  {"tag": "Amedeo",
+   "patterns": ["What is Amedeo Avogadro`s first name?" ],
+   "responses": ["Amedeo"]
+  },
+  {"tag": "Avogadro",
+   "patterns": ["What is Amedeo Avogadro`s last name?" ],
+   "responses": ["Avogadro"]
+  },
+  {"tag": "Yes.",
+   "patterns": ["Did Avogadro submit his poem?", "Can the title of this famous 1811 paper be roughly translated into English as essay on determining the Relative Masses of the Elementary Molecules of Bodies ?", "Is the flute a musical instrument?", "Is it possible to open flutes at one or both ends?", "Are Indian concert flutes available in standard pitches?", "Was Newton a English physicist?", "Is Lima the capital of Peru?", "Is the Museum of Gold in Lima?", "Does Lima have volleyball venues?", "Is the National University of San Marcos in Lima?", "Is rainfall very low?", "Is lima the capital  and  largest  city  of Peru?", "Is The GDP  per capita in Lima $ 7,600?", "Is it true that the ideas of the Enlightenment shaped the development of the city?", "Are there also discussions of having OC Transpo Light Rail and STO Transitway networks linking on the Gatineau side of the Ottawa River ?", "Are swan birds of the family Anatidae?", "Do swans feature strongly in mythology?", "Are swans and ducks birds of the same family?", "Are tigers solitary animals?", "Would it be common for tigers to mate in January?", "Do Terrestrial tortoises have short feet?", "Are tortoises land based?" ],
+   "responses": ["Yes."]
+  },
+  {"tag": "Avogadro's number",
+   "patterns": ["Loschmidt calculated first the value of what?" ],
+   "responses": ["Avogadro's number"]
+  },
+  {"tag": "A person.",
+   "patterns": ["What is Amedeo Avogadro?" ],
+   "responses": ["A person."]
+  },
+  {"tag": "Italy.",
+   "patterns": ["Where is Amedeo Avogadro from?" ],
+   "responses": ["Italy."]
+  },
+  {"tag": "1733",
+   "patterns": ["When did Anders Celcius publish his observations on the aurora borealis?" ],
+   "responses": ["1733"]
+  },
+  {"tag": "1733 ",
+   "patterns": ["When did Anders Celcius publish his observations on the aurora borealis?" ],
+   "responses": ["1733 "]
+  },
+  {"tag": "He determined the dependence of the boiling of water with atmospheric pressure.",
+   "patterns": ["What did Anders Celsius determine about the boiling of water?" ],
+   "responses": ["He determined the dependence of the boiling of water with atmospheric pressure."]
+  },
+  {"tag": "dependence with atmospheric pressure",
+   "patterns": ["What did Anders Celsius determine about the boiling of water?" ],
+   "responses": ["dependence with atmospheric pressure"]
+  },
+  {"tag": "Celcius",
+   "patterns": ["Which temperature scale did Celsius propose?" ],
+   "responses": ["Celcius"]
+  },
+  {"tag": " the Celsius temperature scale ",
+   "patterns": ["Which temperature scale did Celsius propose?" ],
+   "responses": [" the Celsius temperature scale "]
+  },
+  {"tag": "atmospheric pressure",
+   "patterns": ["What is the boiling point of water dependent on?", "What is the boiling point of water dependent on?" ],
+   "responses": ["atmospheric pressure"]
+  },
+  {"tag": "Uppsala in Sweden",
+   "patterns": ["Where was Celsius born?" ],
+   "responses": ["Uppsala in Sweden"]
+  },
+  {"tag": "Uppsala, Sweden",
+   "patterns": ["Where was Celsius born?" ],
+   "responses": ["Uppsala, Sweden"]
+  },
+  {"tag": "the freezing point is independent of latitude",
+   "patterns": ["Whad did Celsius report in his paper Observations of two persistent degrees on a thermometer?" ],
+   "responses": ["the freezing point is independent of latitude"]
+  },
+  {"tag": "42",
+   "patterns": ["How old was Celsius when he died?", "How old was Celsius when he died?", "How old was Anders Celsius when he died?" ],
+   "responses": ["42"]
+  },
+  {"tag": "50",
+   "patterns": ["What is temperature would water have to be to be halfway between its standard boiling and freezing point?" ],
+   "responses": ["50"]
+  },
+  {"tag": "The scale was reversed by Carolus Linnaeus. ",
+   "patterns": ["What is the difference between Celsius' original temperature scale and the one we use today?" ],
+   "responses": ["The scale was reversed by Carolus Linnaeus. "]
+  },
+  {"tag": "scale was reversed ",
+   "patterns": ["What is the difference between Celsius' original temperature scale and the one we use today?" ],
+   "responses": ["scale was reversed "]
+  },
+  {"tag": "professor of astronomy",
+   "patterns": ["What was Anders Celsius`s profession?" ],
+   "responses": ["professor of astronomy"]
+  },
+  {"tag": "Celsius",
+   "patterns": ["What is Anders Celsius`s last name?" ],
+   "responses": ["Celsius"]
+  },
+  {"tag": "observations",
+   "patterns": ["He published a collection of what?" ],
+   "responses": ["observations"]
+  },
+  {"tag": "NULL",
+   "patterns": ["Pronouns in which location are marked for person , number and gender?", "Was Arabic vehicle in science?", "Is it true that the sociolinguistic situation of Arabic provides a prime example of the linguistic phenomenon?", "Is arabic source of vocabulary?", "Is arabic language of the Qur an?", "Is it true that most speak Arabic as their native language?", "What was Chinese language`s profession?", "What is Chinese language`s first name?", "What is Chinese language`s last name?", "How many offspring did Chinese language have?", "The Mandarin dialects in which location have experienced a dramatic decrease in sounds and so have far more multisyllabic words than most other spoken varieties?", "In North Korea, has Hanja been discontinued?", "The most  widespread is the Palladius  system?", "Is the Vietnamese  term  for Chinese writing Hán t?", "Did the Empire have little success?", "When are most of these groups mutually unintelligible?", "What is the population of Chinese language?", "Is the most widespread the Palladius system?", "Are most of these groups mutually unintelligible?", "In what country is Chinese language located?", "Is standard Mandarin language of People Republic?", "Are there many systems of romanization for the chinese languages due to the Chinese`s own lack of phonetic transcription until modern times ?", "May the idea of Chinese as a language family suggest that the chinese identity is much more fragmentary and disunified than Chinese language actually is and as such is often looked upon as culturally and politically provocative ?", "Are most chinese words formed out of native chinese morphemes , including words describing imported objects and ideas ?", "May a native of Guangzhou speak Standard Cantonese and putonghua , a resident of Taiwan , both taiwanese and putonghua/guoyu ?", "Refer most chinese and chinese linguists to chinese as a single language and Chinese language`s subdivisions dialects , while others call chinese a language family ?", "Are there between 7 and 13 main regional groups of Chinese , of which the most spoken , by far , is about 850 million , followed by 90 million , 70 million and 70 million ?", "Where is it an official language?", "France signed the European Charter for what?", "Is french language of 20 ?", "Is French language of Wallonia?", "Are French and German not official languages nor recognised minority languages in the flemish region , although there are a dozen municipalities with language facilities for French-speakers ?", "Can the palatal nasal occur in word initial position ( e.g ?", "What was Italian language`s profession?", "What is Italian language`s first name?", "What is Italian language`s last name?", "How many offspring did Italian language have?", "Where did Italian language die?", "Are geminate plosives and affricates realised as lengthened closures?", "Where is this letter silent?", "Is Italian one of official four languages?", "Is it true that legge sulle fonti del diritto of 7?", "Legge sulle fonti del diritto of what?", "Is it true that Italian retained the contrast between short consonants?", "Italian retained the contrast between what?", "Is stress distinctive in most Romance languages?", "Are the speakers who use italian as a second or cultural language estimated at around 110-120 million ?", "Are front/back vowel rules for C and G similar in French , Romanian , Spanish , and to some extent English ?", "So can Italian language hear istànbul or Ìstanbul ?", "Will , the vowel sounds be pronounced separately) ?", "Can Regional differences be recognized by various factors : the openness of vowels , the length of the consonants , and influence of the local dialect ?", "Give dictionaries the latter as an alternative pronunciation ?", "What was Japanese language`s profession?", "What is Japanese language`s first name?", "Is the basic sentence structure topic-comment?", "Where are the circumstances complicated?", "Does the form indicate a perfect tense?", "Is or a conception that forms the counterpart of dialect?", "Japanese borrowed a considerable number of what?", "Is japanese language in the island?", "Is there a form of the language?", "I.e yamato words ) , which in scholarly contexts is sometimes referred to as ( or rarely , i.e yamato words  -rrb- , which in scholarly contexts is sometimes referred to as -lrb- or rarely , vp ? ?", "Are japanese personal pronouns generally used only in situations requiring special emphasis as to who is doing what to whom ?", "give please Japanese language to Mr ?", "Will a japanese person use vocabulary and inflections of the honorific register to refer to the in-group superior and Japanese language`s or Japanese language`s speech and actions ?", "Thus , can polite korean speech sound very presumptuous when translated verbatim into Japanese , as in korean Japanese language is acceptable and normal to say things like our Mr ?", "Are countries without in red?", "However, is English the official  language?", "Are most Spanish  speakers in Latin America?", "Are countries where is a regionalism in green?", "The deeper  the blue  is, is the more  predominant?", "Are these marked with an asterisk  ( *  )?", "Did the language lose its official status?", "Where do about 400 million people speak Spanish?", "What kind of instrument is the spanish language?", "Is the lexical similarity with Italian estimated at 82%?", "Is spanish an official language of the European Union?", "What is an official language of the European Union?", "Is it true that mexico contains the largest population of Spanish speakers?", "Mexico contains the largest population of what?", "Is this phenomenon notable in Brazil?", "Is spanish one of the official languages?", "Is universidad de México Instituto Cervantes Spanish language of Spain?", "Is spanish language of the European Union?", "Pasan en consecuencia , las palabras que comienzan por estas dos letras , o que las contienen , a alfabetizarse en los lugares que les corresponden dentro de la c y de la l , respectivamente ?", "Allow the common features of the writing systems of the Romance languages for a greater amount of interlingual reading comprehension than oral communication would ?", "What was Swahili language`s profession?", "How many years ago was an interterritorial conference held at Mombasa ?", "What is Swahili language`s last name?", "How many years ago was it when the rulers of Zanzibar organized trading expeditions into the interior of the mainland , up to the various lakes in the continent `s Great Rift Valley?", "What is Swahili language`s first name?", "Where did Swahili language die?", "When is Swahili unusual?", "Where does swahili grammar arrange nouns?", "What was the only good candidate in these two colonies?", "Do some writers mark aspirated consonants?", "Was one key step in spreading Swahili to create a standard written language?", "Are there today more speakers in Kenya of the Somali coast?", "The pronunciation of the phoneme / u / stands between what?" ],
+   "responses": ["NULL"]
+  },
+  {"tag": "(bad question)",
+   "patterns": ["Are the most active in Damascus and Cairo?", "Do arabs consider literary Arabic?" ],
+   "responses": ["(bad question)"]
+  },
+  {"tag": "the linguistic phenomenon of diglossia",
+   "patterns": ["The sociolinguistic situation of Arabic provides a prime example of what?" ],
+   "responses": ["the linguistic phenomenon of diglossia"]
+  },
+  {"tag": "in colonies",
+   "patterns": ["Where do bees live?" ],
+   "responses": ["in colonies"]
+  },
+  {"tag": "mid to late summer",
+   "patterns": ["When do bumblebee colonies reach peak population?" ],
+   "responses": ["mid to late summer"]
+  },
+  {"tag": "cuckoo bees",
+   "patterns": ["What do people commonly call cleptoparasitic bees?" ],
+   "responses": ["cuckoo bees"]
+  },
+  {"tag": "from predatory ancestors",
+   "patterns": ["How did vespoid wasps evolve?" ],
+   "responses": ["from predatory ancestors"]
+  },
+  {"tag": "honey",
+   "patterns": ["What do humans use bees for?" ],
+   "responses": ["honey"]
+  },
+  {"tag": "to replace daily casualties",
+   "patterns": ["Why do honey bee queens continue to lay eggs during the foraging season?" ],
+   "responses": ["to replace daily casualties"]
+  },
+  {"tag": "2008",
+   "patterns": ["When did Beijing host the Olympic Games?" ],
+   "responses": ["2008"]
+  },
+  {"tag": "in 755 AD",
+   "patterns": ["When was the An Shi Rebellion launched?" ],
+   "responses": ["in 755 AD"]
+  },
+  {"tag": "Beiping",
+   "patterns": ["In 1949, where did Communist forces enter without a fight?" ],
+   "responses": ["Beiping"]
+  },
+  {"tag": "1916",
+   "patterns": ["When did Yuan Shikai die?" ],
+   "responses": ["1916"]
+  },
+  {"tag": "surrounding cities and provinces",
+   "patterns": ["Where does air pollution in Beijing come from?" ],
+   "responses": ["surrounding cities and provinces"]
+  },
+  {"tag": "167",
+   "patterns": ["As of August 1st, 2006, how many trains stop daily at the Beijing Railway Station or the Beijing West Railway Station?" ],
+   "responses": ["167"]
+  },
+  {"tag": "Tsinghua University",
+   "patterns": ["What is the name of a university (or similar institution for imparting higher education) in Beijing?" ],
+   "responses": ["Tsinghua University"]
+  },
+  {"tag": "He could move without crutches until a paralytic attack in 1647.",
+   "patterns": ["Could Blaise Pascal move without crutches?" ],
+   "responses": ["He could move without crutches until a paralytic attack in 1647."]
+  },
+  {"tag": "ill health",
+   "patterns": ["From what did Pascal suffer throughout his life?" ],
+   "responses": ["ill health"]
+  },
+  {"tag": "poor health",
+   "patterns": ["From what did Pascal suffer throughout his life?" ],
+   "responses": ["poor health"]
+  },
+  {"tag": "the procedure used in geometry ",
+   "patterns": ["What did Pascal argue was as perfect as possible?" ],
+   "responses": ["the procedure used in geometry "]
+  },
+  {"tag": "the procedure used in geometry",
+   "patterns": ["What did Pascal argue was as perfect as possible?" ],
+   "responses": ["the procedure used in geometry"]
+  },
+  {"tag": "Time",
+   "patterns": ["What is the best physician?" ],
+   "responses": ["Time"]
+  },
+  {"tag": "Gilberte",
+   "patterns": ["Who was the eldest sibling?" ],
+   "responses": ["Gilberte"]
+  },
+  {"tag": "Blaise Pascal",
+   "patterns": ["Of whose continual poor health was the cause never precisely determined?" ],
+   "responses": ["Blaise Pascal"]
+  },
+  {"tag": "Violincello means little violene.",
+   "patterns": ["What does violincello mean?" ],
+   "responses": ["Violincello means little violene."]
+  },
+  {"tag": "Traditionally, bows are made from pernambuco or brazilwood.",
+   "patterns": ["What are the two materials that bows are made of traditionally? " ],
+   "responses": ["Traditionally, bows are made from pernambuco or brazilwood."]
+  },
+  {"tag": "Pegs are used to tune a cello.",
+   "patterns": ["What is used to tune a cello?" ],
+   "responses": ["Pegs are used to tune a cello."]
+  },
+  {"tag": "the pegs",
+   "patterns": ["What is used to tune a cello?" ],
+   "responses": ["the pegs"]
+  },
+  {"tag": "Artificial harmonics can produce any notes above middle C.",
+   "patterns": ["Which harmonics can produce any notes above middle C? " ],
+   "responses": ["Artificial harmonics can produce any notes above middle C."]
+  },
+  {"tag": "Artificial harmonics",
+   "patterns": ["Which harmonics can produce any notes above middle C? " ],
+   "responses": ["Artificial harmonics"]
+  },
+  {"tag": "Monteverdi referred to the cello as basso de viola da braccio.",
+   "patterns": ["Who referred to the cello as basso de viola da braccio?" ],
+   "responses": ["Monteverdi referred to the cello as basso de viola da braccio."]
+  },
+  {"tag": "Monteverdi",
+   "patterns": ["Who referred to the cello as basso de viola da braccio?" ],
+   "responses": ["Monteverdi"]
+  },
+  {"tag": "The violincello is held on the shoulder.",
+   "patterns": ["Where is the violincello held?" ],
+   "responses": ["The violincello is held on the shoulder."]
+  },
+  {"tag": "on the shoulder",
+   "patterns": ["Where is the violincello held?" ],
+   "responses": ["on the shoulder"]
+  },
+  {"tag": "violoncello",
+   "patterns": ["What is cello an abbreviation of?", "What is cello an abbreviation of?" ],
+   "responses": ["violoncello"]
+  },
+  {"tag": "a gamba",
+   "patterns": ["What position is used to play the cello?" ],
+   "responses": ["a gamba"]
+  },
+  {"tag": "seated",
+   "patterns": ["What position is used to play the cello?" ],
+   "responses": ["seated"]
+  },
+  {"tag": "cellist",
+   "patterns": ["What is a person who plays the cello called?", "What is a person who plays the cello called?" ],
+   "responses": ["cellist"]
+  },
+  {"tag": "to stop cracks from forming ****misspelled****",
+   "patterns": ["Why is there purling on a cello?" ],
+   "responses": ["to stop cracks from forming ****misspelled****"]
+  },
+  {"tag": "the 18th century",
+   "patterns": ["When did the first educational works appear for the cello?" ],
+   "responses": ["the 18th century"]
+  },
+  {"tag": "18th century",
+   "patterns": ["When did the first educational works appear for the cello?" ],
+   "responses": ["18th century"]
+  },
+  {"tag": "Luis & Clark",
+   "patterns": ["What cello manufacturer should I buy from if I want to play outside?", "What cello manufacturer should I buy from if I want to play outside?" ],
+   "responses": ["Luis & Clark"]
+  },
+  {"tag": "Charles-Augustin de Coulomb died in Paris.",
+   "patterns": ["Where did Charles-Augustin de Coulomb die?" ],
+   "responses": ["Charles-Augustin de Coulomb died in Paris."]
+  },
+  {"tag": "Paris, France",
+   "patterns": ["Where did Charles-Augustin de Coulomb die?" ],
+   "responses": ["Paris, France"]
+  },
+  {"tag": "Charles-Augustin de Coulomb was permanently stationed in Paris in 1781.",
+   "patterns": ["When was Charles-Augustin de Coulomb permanently stationed in Paris?" ],
+   "responses": ["Charles-Augustin de Coulomb was permanently stationed in Paris in 1781."]
+  },
+  {"tag": "Retaining wall design",
+   "patterns": ["What contribution did Charles-Augustin de Coulomb make to the field of geotechnical engineering?" ],
+   "responses": ["Retaining wall design"]
+  },
+  {"tag": "The construction of Fort Bourbon took place in Martinique.",
+   "patterns": ["Where did the construction of Fort Bourbon take place?" ],
+   "responses": ["The construction of Fort Bourbon took place in Martinique."]
+  },
+  {"tag": "Martinique ",
+   "patterns": ["Where did the construction of Fort Bourbon take place?" ],
+   "responses": ["Martinique "]
+  },
+  {"tag": "Coulomb's law is the definition of the electrostatic force of attraction and repulsion.",
+   "patterns": ["What is the definition of the electrostatic force of attraction and repulsion? " ],
+   "responses": ["Coulomb's law is the definition of the electrostatic force of attraction and repulsion."]
+  },
+  {"tag": "Coulomb's Law",
+   "patterns": ["What is the definition of the electrostatic force of attraction and repulsion? " ],
+   "responses": ["Coulomb's Law"]
+  },
+  {"tag": "Charles-Augustin de Coulomb retired to a small estate he possessed at Blois on the outbreak of the revolution in 1789.",
+   "patterns": ["When did Charles-Augustin de Coulomb retire to a small estate he possessed at Blois?" ],
+   "responses": ["Charles-Augustin de Coulomb retired to a small estate he possessed at Blois on the outbreak of the revolution in 1789."]
+  },
+  {"tag": "1789",
+   "patterns": ["When did Charles-Augustin de Coulomb retire to a small estate he possessed at Blois?" ],
+   "responses": ["1789"]
+  },
+  {"tag": "273",
+   "patterns": ["If Charles-Augustin de Coulomb was alive today, how old would he have been?" ],
+   "responses": ["273"]
+  },
+  {"tag": "70",
+   "patterns": ["For how many years did Charles-Augustin de Coulomb live?" ],
+   "responses": ["70"]
+  },
+  {"tag": "1806",
+   "patterns": ["How old was Charles-Augustin de Coulomb when he died?" ],
+   "responses": ["1806"]
+  },
+  {"tag": "220",
+   "patterns": ["How many years ago did he resign his appointment as intendant de eaux et fontaine ?" ],
+   "responses": ["220"]
+  },
+  {"tag": "203",
+   "patterns": ["How many years ago did Charles-Augustin de Coulomb die?" ],
+   "responses": ["203"]
+  },
+  {"tag": "June 14, 1736",
+   "patterns": ["When was Charles-Augustin de Coulomb born?" ],
+   "responses": ["June 14, 1736"]
+  },
+  {"tag": "distance and electric force",
+   "patterns": ["He discovered an inverse relationship of what?" ],
+   "responses": ["distance and electric force"]
+  },
+  {"tag": "France",
+   "patterns": ["Where is Charles-Augustin de Coulomb from?" ],
+   "responses": ["France"]
+  },
+  {"tag": "Chinese",
+   "patterns": ["One-fifth of world population speak some form of what?" ],
+   "responses": ["Chinese"]
+  },
+  {"tag": "no, it's distinguished by diversity",
+   "patterns": ["Is mandarin spoken Chinese distinguished by its high level?" ],
+   "responses": ["no, it's distinguished by diversity"]
+  },
+  {"tag": "Denmark",
+   "patterns": ["Copenhagen is the capital of what country?", "Copenhagen is the capital of what country?" ],
+   "responses": ["Denmark"]
+  },
+  {"tag": "1,161,063",
+   "patterns": ["What is the population of Copenhagen?" ],
+   "responses": ["1,161,063"]
+  },
+  {"tag": "1,153,615",
+   "patterns": ["What is the population of Copenhagen?" ],
+   "responses": ["1,153,615"]
+  },
+  {"tag": "Oresund Bridge",
+   "patterns": ["What transnational bridge was completed in 2000?", "What transnational bridge was completed in 2000?" ],
+   "responses": ["Oresund Bridge"]
+  },
+  {"tag": "Its strategic location and excellent infrastructure",
+   "patterns": ["Why is Copenhagen a regional hub?" ],
+   "responses": ["Its strategic location and excellent infrastructure"]
+  },
+  {"tag": "Its strategic location and excellent infrastructure with the largest airport in Scandinavia[6] located 14 minutes by train from the city centre",
+   "patterns": ["Why is Copenhagen a regional hub?" ],
+   "responses": ["Its strategic location and excellent infrastructure with the largest airport in Scandinavia[6] located 14 minutes by train from the city centre"]
+  },
+  {"tag": "a bunch of things",
+   "patterns": ["What happened to Copenhagen between 1251 and 1255?" ],
+   "responses": ["a bunch of things"]
+  },
+  {"tag": "Most Livable City in the World, ",
+   "patterns": ["Copenhagen is ranked number one worldwide for which things?" ],
+   "responses": ["Most Livable City in the World, "]
+  },
+  {"tag": "Most Livable City, Location Ranking Survey",
+   "patterns": ["Copenhagen is ranked number one worldwide for which things?" ],
+   "responses": ["Most Livable City, Location Ranking Survey"]
+  },
+  {"tag": "Because it was WW2",
+   "patterns": ["Why did German troops occupy Copenhagen?" ],
+   "responses": ["Because it was WW2"]
+  },
+  {"tag": " The most common Cymbals are the Hi-Hats, Crash, Splash, Ride, and China.",
+   "patterns": ["What are the most common Cymbals?" ],
+   "responses": [" The most common Cymbals are the Hi-Hats, Crash, Splash, Ride, and China."]
+  },
+  {"tag": "Hi-Hats, Crash, Splash, Ride, and China",
+   "patterns": ["What are the most common Cymbals?" ],
+   "responses": ["Hi-Hats, Crash, Splash, Ride, and China"]
+  },
+  {"tag": "The suspended cymbal is the second main orchestral use of symbals.",
+   "patterns": ["What is the second main orchestral use of cymbals?" ],
+   "responses": ["The suspended cymbal is the second main orchestral use of symbals."]
+  },
+  {"tag": "The suspended cymbal",
+   "patterns": ["What is the second main orchestral use of cymbals?" ],
+   "responses": ["The suspended cymbal"]
+  },
+  {"tag": "Clash cymbals have traditionally been accompanied by the bass drum playing an identical part.",
+   "patterns": ["What have clash cymbals traditionally been accompanied by?" ],
+   "responses": ["Clash cymbals have traditionally been accompanied by the bass drum playing an identical part."]
+  },
+  {"tag": "The bass drum playing an identical part",
+   "patterns": ["What have clash cymbals traditionally been accompanied by?" ],
+   "responses": ["The bass drum playing an identical part"]
+  },
+  {"tag": "It causes a sound which is in a higher register than the rest of the symbal.",
+   "patterns": ["What happens when the center of a Cymbal is hit?" ],
+   "responses": ["It causes a sound which is in a higher register than the rest of the symbal."]
+  },
+  {"tag": "It causes a sound which is in a higher register than the rest of the cymbal",
+   "patterns": ["What happens when the center of a Cymbal is hit?" ],
+   "responses": ["It causes a sound which is in a higher register than the rest of the cymbal"]
+  },
+  {"tag": "Playing a bass drum playing an identical part is an effective way to accentuate a note.",
+   "patterns": ["What is an effective way to accentuate a note?" ],
+   "responses": ["Playing a bass drum playing an identical part is an effective way to accentuate a note."]
+  },
+  {"tag": "The combination of a clash cymbol being accompanied by a bass drum playing an identical part, played loudly",
+   "patterns": ["What is an effective way to accentuate a note?" ],
+   "responses": ["The combination of a clash cymbol being accompanied by a bass drum playing an identical part, played loudly"]
+  },
+  {"tag": "An expert player can obtain an enormous dynamic range from crash cymbals.",
+   "patterns": ["From what type of Cymbals can a expert player obtain an enormous dynamic range?" ],
+   "responses": ["An expert player can obtain an enormous dynamic range from crash cymbals."]
+  },
+  {"tag": "Crash cymbals",
+   "patterns": ["From what type of Cymbals can a expert player obtain an enormous dynamic range?" ],
+   "responses": ["Crash cymbals"]
+  },
+  {"tag": "Bell",
+   "patterns": ["What is the center of a cymbal called?" ],
+   "responses": ["Bell"]
+  },
+  {"tag": "bell",
+   "patterns": ["What is the center of a cymbal called?" ],
+   "responses": ["bell"]
+  },
+  {"tag": "Edge or rim",
+   "patterns": ["What part of the cymbal gets the best crash?" ],
+   "responses": ["Edge or rim"]
+  },
+  {"tag": "edge or rim",
+   "patterns": ["What part of the cymbal gets the best crash?" ],
+   "responses": ["edge or rim"]
+  },
+  {"tag": "the suspended cymbal",
+   "patterns": ["What is the second main orchestral use of cymbals?", "What is the second main orchestral use of cymbals?" ],
+   "responses": ["the suspended cymbal"]
+  },
+  {"tag": "the cymbals and the drum",
+   "patterns": ["What two instruments form the modern drum kit?" ],
+   "responses": ["the cymbals and the drum"]
+  },
+  {"tag": "fauns and satyrs",
+   "patterns": ["What Greek mythical creatures were depicted holding cymbals?", "What Greek mythical creatures were depicted holding cymbals?" ],
+   "responses": ["fauns and satyrs"]
+  },
+  {"tag": "a pair of clash cymbals",
+   "patterns": ["What are orchestral crash cymbals technically called?" ],
+   "responses": ["a pair of clash cymbals"]
+  },
+  {"tag": "clash cymbals",
+   "patterns": ["What are orchestral crash cymbals technically called?" ],
+   "responses": ["clash cymbals"]
+  },
+  {"tag": "1462.60 square kilometers",
+   "patterns": ["How much area does Dhaka cover?" ],
+   "responses": ["1462.60 square kilometers"]
+  },
+  {"tag": "500,000",
+   "patterns": ["How many people did the 1970 Bhola cyclone kill?" ],
+   "responses": ["500,000"]
+  },
+  {"tag": "December 16, 1971",
+   "patterns": ["When is the end of the independence war of Bangladesh?" ],
+   "responses": ["December 16, 1971"]
+  },
+  {"tag": "No figure is given for the number of native speakers.",
+   "patterns": ["What is given for the number of native speakers?" ],
+   "responses": ["No figure is given for the number of native speakers."]
+  },
+  {"tag": "true",
+   "patterns": ["Is it true that semantics causes a number of false friends?" ],
+   "responses": ["true"]
+  },
+  {"tag": "A flute player, a flautist or a flutist. ",
+   "patterns": ["What do we refer musicians who play flute?" ],
+   "responses": ["A flute player, a flautist or a flutist. "]
+  },
+  {"tag": "A flute player, a flautist, or a flutist",
+   "patterns": ["What do we refer musicians who play flute?" ],
+   "responses": ["A flute player, a flautist, or a flutist"]
+  },
+  {"tag": "2004.",
+   "patterns": ["When was a three-holed flute made from a mammoth tusk discovered?" ],
+   "responses": ["2004."]
+  },
+  {"tag": "In 2004",
+   "patterns": ["When was a three-holed flute made from a mammoth tusk discovered?" ],
+   "responses": ["In 2004"]
+  },
+  {"tag": "12th century.",
+   "patterns": ["When did the tin whistle first appear?" ],
+   "responses": ["12th century."]
+  },
+  {"tag": "In the 12th century",
+   "patterns": ["When did the tin whistle first appear?" ],
+   "responses": ["In the 12th century"]
+  },
+  {"tag": "A three holed-flute made from a mammoth tusk and two flutes made from swan's bones.",
+   "patterns": ["What are the oldest known musical instruments?" ],
+   "responses": ["A three holed-flute made from a mammoth tusk and two flutes made from swan's bones."]
+  },
+  {"tag": "A three-holed flute made from a mammoth tusk and two flutes made from swans' bones are among the oldest known musical instruments",
+   "patterns": ["What are the oldest known musical instruments?" ],
+   "responses": ["A three-holed flute made from a mammoth tusk and two flutes made from swans' bones are among the oldest known musical instruments"]
+  },
+  {"tag": "7th century BC.",
+   "patterns": ["When was the pan flute spread to other parts of Europe?" ],
+   "responses": ["7th century BC."]
+  },
+  {"tag": "After the 7th century BC",
+   "patterns": ["When was the pan flute spread to other parts of Europe?" ],
+   "responses": ["After the 7th century BC"]
+  },
+  {"tag": "A Bernoulli, or siphon.",
+   "patterns": ["What does the air stream across this hole create?" ],
+   "responses": ["A Bernoulli, or siphon."]
+  },
+  {"tag": "Most foxes live 2 to 3 years, but they can survive for up to 10 years or even longer in captivity.",
+   "patterns": ["How long do most foxes live?" ],
+   "responses": ["Most foxes live 2 to 3 years, but they can survive for up to 10 years or even longer in captivity."]
+  },
+  {"tag": "2 to 3 years",
+   "patterns": ["How long do most foxes live?" ],
+   "responses": ["2 to 3 years"]
+  },
+  {"tag": "the United Kingdom",
+   "patterns": ["In what country did fox hunting originate?" ],
+   "responses": ["the United Kingdom"]
+  },
+  {"tag": "in the United Kingdom",
+   "patterns": ["In what country did fox hunting originate?" ],
+   "responses": ["in the United Kingdom"]
+  },
+  {"tag": "The Fennec Fox is the smallest species of fox. ",
+   "patterns": ["What is the smallest species of fox?" ],
+   "responses": ["The Fennec Fox is the smallest species of fox. "]
+  },
+  {"tag": "the Fennec Fox",
+   "patterns": ["What is the smallest species of fox?" ],
+   "responses": ["the Fennec Fox"]
+  },
+  {"tag": "vixens",
+   "patterns": ["What are female foxes called?", "What are female foxes called?" ],
+   "responses": ["vixens"]
+  },
+  {"tag": "Caching is burying it for later consumption, usually under leaves, snow, or soil.",
+   "patterns": ["What is caching food?" ],
+   "responses": ["Caching is burying it for later consumption, usually under leaves, snow, or soil."]
+  },
+  {"tag": "burying it for later consumption",
+   "patterns": ["What is caching food?" ],
+   "responses": ["burying it for later consumption"]
+  },
+  {"tag": "2 years ago",
+   "patterns": ["How many years ago did African people spread across 31 francophone African countries can speak French either as a first or second language?" ],
+   "responses": ["2 years ago"]
+  },
+  {"tag": "French",
+   "patterns": ["What is widely used by the Lebanese, especially for administrative purposes?" ],
+   "responses": ["French"]
+  },
+  {"tag": "475",
+   "patterns": ["How many years ago was the Luther Bible by Martin Luther printed?" ],
+   "responses": ["475"]
+  },
+  {"tag": "savannas, grasslands, or open woodlands",
+   "patterns": ["What areas can giraffes inhabit?" ],
+   "responses": ["savannas, grasslands, or open woodlands"]
+  },
+  {"tag": "inhabit savannas, grasslands, or open woodlands",
+   "patterns": ["What areas can giraffes inhabit?" ],
+   "responses": ["inhabit savannas, grasslands, or open woodlands"]
+  },
+  {"tag": "extremely long tongue ",
+   "patterns": ["What will a giraffe use to clean off any bugs that appear on its face?" ],
+   "responses": ["extremely long tongue "]
+  },
+  {"tag": "It's extremely long tongue",
+   "patterns": ["What will a giraffe use to clean off any bugs that appear on its face?" ],
+   "responses": ["It's extremely long tongue"]
+  },
+  {"tag": "with a powerful kick",
+   "patterns": ["How do giraffes defend themselves?" ],
+   "responses": ["with a powerful kick"]
+  },
+  {"tag": "With powerful kicks",
+   "patterns": ["How do giraffes defend themselves?" ],
+   "responses": ["With powerful kicks"]
+  },
+  {"tag": "1908",
+   "patterns": ["In what year did Henri Becquerel die?" ],
+   "responses": ["1908"]
+  },
+  {"tag": "August 24, 1908",
+   "patterns": ["In what year did Henri Becquerel die?" ],
+   "responses": ["August 24, 1908"]
+  },
+  {"tag": " Paris ",
+   "patterns": ["Where was Henri Becquerel born?" ],
+   "responses": [" Paris "]
+  },
+  {"tag": "Paris",
+   "patterns": ["Where was Henri Becquerel born?", "Where is Henri Becquerel from?" ],
+   "responses": ["Paris"]
+  },
+  {"tag": "1903",
+   "patterns": ["In what year did Henri Becquerel win the Nobel Prize in Physics?", "In what year did Henri Becquerel win the Nobel Prize in Physics?" ],
+   "responses": ["1903"]
+  },
+  {"tag": "He discovered it accidentally",
+   "patterns": ["Did Henri Becquerel intentionally discover radioactivity?" ],
+   "responses": ["He discovered it accidentally"]
+  },
+  {"tag": "157",
+   "patterns": ["If Henri Becquerel was alive today, how old would he have been?" ],
+   "responses": ["157"]
+  },
+  {"tag": "56",
+   "patterns": ["For how many years did Henri Becquerel live?" ],
+   "responses": ["56"]
+  },
+  {"tag": "117",
+   "patterns": ["How many years ago was it when he became the third in his family to occupy the physics chair at the Musum National d`Histoire Naturelle?" ],
+   "responses": ["117"]
+  },
+  {"tag": "December 15, 1852",
+   "patterns": ["When was Henri Becquerel born?" ],
+   "responses": ["December 15, 1852"]
+  },
+  {"tag": "photographic plates and black material",
+   "patterns": ["Becquerel wrapped a fluorescent substance in what?" ],
+   "responses": ["photographic plates and black material"]
+  },
+  {"tag": "Henri Becquerel was a famous physicist.",
+   "patterns": ["What is Henri Becquerel?" ],
+   "responses": ["Henri Becquerel was a famous physicist."]
+  },
+  {"tag": "was a physisist",
+   "patterns": ["What does Henri Becquerel do?" ],
+   "responses": ["was a physisist"]
+  },
+  {"tag": "Henri Becquerel was a physicist.",
+   "patterns": ["What does Henri Becquerel do?" ],
+   "responses": ["Henri Becquerel was a physicist."]
+  },
+  {"tag": "Newton may have rejected the church's doctrine of the Trinity.",
+   "patterns": ["Did Newton reject the church's doctrine of the Trinity?" ],
+   "responses": ["Newton may have rejected the church's doctrine of the Trinity."]
+  },
+  {"tag": "Maybe",
+   "patterns": ["Did Newton reject the church's doctrine of the Trinity?" ],
+   "responses": ["Maybe"]
+  },
+  {"tag": "No.",
+   "patterns": ["Was Newton admitted into Havard College?", "Has the San Lorenzo Megaport Project been completed?", "Is the Tiger a member of the Felidar family?", "Are panthers a type of tiger?", "Is the name of the upper shell of a turtle called the plastron?", "Is turtle soup considered a delicacy?" ],
+   "responses": ["No."]
+  },
+  {"tag": "Maybe, but it doesn't say so in the article",
+   "patterns": ["Was Newton admitted into Havard College?" ],
+   "responses": ["Maybe, but it doesn't say so in the article"]
+  },
+  {"tag": "Christmas Day, Decembeer 25, 1642.",
+   "patterns": ["When was Newton's date of birth recorded?" ],
+   "responses": ["Christmas Day, Decembeer 25, 1642."]
+  },
+  {"tag": "his date of birth was recorded as Christmas Day, December 25, 1642",
+   "patterns": ["When was Newton's date of birth recorded?" ],
+   "responses": ["his date of birth was recorded as Christmas Day, December 25, 1642"]
+  },
+  {"tag": "Three",
+   "patterns": ["How many laws of motion did Netwon have?", "How many laws of motion did Netwon have?", "How many years ago was the Lima Stock Exchange the most profitable in the world?" ],
+   "responses": ["Three"]
+  },
+  {"tag": "God",
+   "patterns": ["Who did Newton see as the master creator?" ],
+   "responses": ["God"]
+  },
+  {"tag": "Newton saw God as the master creator whose existence could not be denied in the face of the grandeur of all creation",
+   "patterns": ["Who did Newton see as the master creator?" ],
+   "responses": ["Newton saw God as the master creator whose existence could not be denied in the face of the grandeur of all creation"]
+  },
+  {"tag": "From 1670 to 1672",
+   "patterns": ["When did Netwon investigate the refraction of light" ],
+   "responses": ["From 1670 to 1672"]
+  },
+  {"tag": "1670-1672",
+   "patterns": ["When did Netwon investigate the refraction of light" ],
+   "responses": ["1670-1672"]
+  },
+  {"tag": "The principles of conservation of momentum and angular momentum",
+   "patterns": ["What principles did Newton explain for mechanics?" ],
+   "responses": ["The principles of conservation of momentum and angular momentum"]
+  },
+  {"tag": "In mechanics, Newton enunciated the principles of conservation of momentum and angular momentum",
+   "patterns": ["What principles did Newton explain for mechanics?" ],
+   "responses": ["In mechanics, Newton enunciated the principles of conservation of momentum and angular momentum"]
+  },
+  {"tag": "Henry More",
+   "patterns": ["Interaction with what man stirred up Newton's interest in alchemy?" ],
+   "responses": ["Henry More"]
+  },
+  {"tag": "The contact with the theosophist Henry More, revived his interest in alchemy",
+   "patterns": ["Interaction with what man stirred up Newton's interest in alchemy?" ],
+   "responses": ["The contact with the theosophist Henry More, revived his interest in alchemy"]
+  },
+  {"tag": "The steam engine.",
+   "patterns": ["James Watt's improvements of what were fundamental to the changes wrought by the Industrial Revolution?" ],
+   "responses": ["The steam engine."]
+  },
+  {"tag": "steam engine",
+   "patterns": ["James Watt's improvements of what were fundamental to the changes wrought by the Industrial Revolution?" ],
+   "responses": ["steam engine"]
+  },
+  {"tag": "Greenock, a seaport on the Firth of Clyde",
+   "patterns": ["James Watt was born where?" ],
+   "responses": ["Greenock, a seaport on the Firth of Clyde"]
+  },
+  {"tag": "Agnus Muirhead",
+   "patterns": ["What was the name of James Watt's mother?" ],
+   "responses": ["Agnus Muirhead"]
+  },
+  {"tag": "Agnes Muirhead",
+   "patterns": ["What was the name of James Watt's mother?" ],
+   "responses": ["Agnes Muirhead"]
+  },
+  {"tag": "3",
+   "patterns": ["How many of James Watt's children did not live to adulthood?", "How many of James Watt's children did not live to adulthood?" ],
+   "responses": ["3"]
+  },
+  {"tag": "229",
+   "patterns": ["James Watt ranked first among how many people in Charles Murray's survey of historiometry?", "James Watt ranked first among how many people in Charles Murray's survey of historiometry?" ],
+   "responses": ["229"]
+  },
+  {"tag": "1753",
+   "patterns": ["In what year did James travel to Lodon to study instrument-making?" ],
+   "responses": ["1753"]
+  },
+  {"tag": "17 years",
+   "patterns": ["For how many years of James Watt's life was his mother alive?" ],
+   "responses": ["17 years"]
+  },
+  {"tag": "Steam engine.",
+   "patterns": ["What is James Watt most famous for?" ],
+   "responses": ["Steam engine."]
+  },
+  {"tag": "January 18,1535.",
+   "patterns": ["When was Lima founded?" ],
+   "responses": ["January 18,1535."]
+  },
+  {"tag": "Near the downtown area.",
+   "patterns": ["Where is the Park of the Reserve located?" ],
+   "responses": ["Near the downtown area."]
+  },
+  {"tag": "Automobiles that renders express service on some major roads of the Lima Metropolitan Area.",
+   "patterns": ["What is a colectivo?" ],
+   "responses": ["Automobiles that renders express service on some major roads of the Lima Metropolitan Area."]
+  },
+  {"tag": "Hemming.",
+   "patterns": ["The Spanish Crown named Pizarro governor of what?" ],
+   "responses": ["Hemming."]
+  },
+  {"tag": "the city, Lima",
+   "patterns": ["The ideas of the Enlightenment shaped the development of what?" ],
+   "responses": ["the city, Lima"]
+  },
+  {"tag": "Over 300 languages are spoken in london",
+   "patterns": ["Over how many languages are spoken in London?" ],
+   "responses": ["Over 300 languages are spoken in london"]
+  },
+  {"tag": "Over 300",
+   "patterns": ["Over how many languages are spoken in London?" ],
+   "responses": ["Over 300"]
+  },
+  {"tag": "By the 600s, the Anglo-Saxons had created a new S09_settlement called Lundenwic.",
+   "patterns": ["What had the Anglo-Saxons created by the 600s?" ],
+   "responses": ["By the 600s, the Anglo-Saxons had created a new S09_settlement called Lundenwic."]
+  },
+  {"tag": "a new S09_settlement called Lundenwic",
+   "patterns": ["What had the Anglo-Saxons created by the 600s?" ],
+   "responses": ["a new S09_settlement called Lundenwic"]
+  },
+  {"tag": "London has been subjected to bouts of terrorism.",
+   "patterns": ["What city in the UK has been subjected to bouts of terrorism?" ],
+   "responses": ["London has been subjected to bouts of terrorism."]
+  },
+  {"tag": "London",
+   "patterns": ["What city in the UK has been subjected to bouts of terrorism?" ],
+   "responses": ["London"]
+  },
+  {"tag": "James VI of Scotland united Scotland and England.",
+   "patterns": ["What countries did James VI of Scotland unite?" ],
+   "responses": ["James VI of Scotland united Scotland and England."]
+  },
+  {"tag": "England and Scotland",
+   "patterns": ["What countries did James VI of Scotland unite?" ],
+   "responses": ["England and Scotland"]
+  },
+  {"tag": "London remained relatively untouched",
+   "patterns": ["How did civil wars affect England during the Middle Ages?" ],
+   "responses": ["London remained relatively untouched"]
+  },
+  {"tag": "The lower strings",
+   "patterns": ["Which part of the strings does the left hand touch?" ],
+   "responses": ["The lower strings"]
+  },
+  {"tag": "North-eastern parts of Africa",
+   "patterns": ["In which place is lyre still played?" ],
+   "responses": ["North-eastern parts of Africa"]
+  },
+  {"tag": "Faraday",
+   "patterns": ["Who was a member of the Sandemanian sect of Christianity?", "Who was made to travel outside the coach?", "Who died at his house at Hampton Court on August 25, 1867?" ],
+   "responses": ["Faraday"]
+  },
+  {"tag": "self-induction",
+   "patterns": ["What did Joseph Henry likely discover?", "What did Joseph Henry likely discover?" ],
+   "responses": ["self-induction"]
+  },
+  {"tag": "a Doctor of Civil Law degree (honorary)",
+   "patterns": ["What did the University of Oxford grant Faraday?" ],
+   "responses": ["a Doctor of Civil Law degree (honorary)"]
+  },
+  {"tag": "Doctor of Civil Law degree (honorary)",
+   "patterns": ["What did the University of Oxford grant Faraday?" ],
+   "responses": ["Doctor of Civil Law degree (honorary)"]
+  },
+  {"tag": "the best experimentalist in the history of science",
+   "patterns": ["What do some historians of science refer to Faraday as?" ],
+   "responses": ["the best experimentalist in the history of science"]
+  },
+  {"tag": "best experimentalist in the history of science",
+   "patterns": ["What do some historians of science refer to Faraday as?" ],
+   "responses": ["best experimentalist in the history of science"]
+  },
+  {"tag": "John 'Mad Jack' Fuller",
+   "patterns": ["Who was the sponsor and mentor of Faraday?", "Who was the sponsor and mentor of Faraday?" ],
+   "responses": ["John 'Mad Jack' Fuller"]
+  },
+  {"tag": "the Bunsen burner",
+   "patterns": ["What did Faraday invent that is used almost universally in science laboratories?" ],
+   "responses": ["the Bunsen burner"]
+  },
+  {"tag": "Bunsen burner",
+   "patterns": ["What did Faraday invent that is used almost universally in science laboratories?" ],
+   "responses": ["Bunsen burner"]
+  },
+  {"tag": "diamagnetism",
+   "patterns": ["What was the Faraday effect first called?", "What was the Faraday effect first called?" ],
+   "responses": ["diamagnetism"]
+  },
+  {"tag": "Newington Butts",
+   "patterns": ["What was Michael Faraday`s birthplace?" ],
+   "responses": ["Newington Butts"]
+  },
+  {"tag": "chemist and physicist",
+   "patterns": ["What was Michael Faraday`s profession?" ],
+   "responses": ["chemist and physicist"]
+  },
+  {"tag": "164",
+   "patterns": ["How many years ago was it when he discovered the phenomenon that he named diamagnetism , and what is now called the Faraday effect?" ],
+   "responses": ["164"]
+  },
+  {"tag": "154",
+   "patterns": ["How many years ago was it when Faraday wrote a letter to The Times on the subject of the foul condition of the River Thames , which resulted in an oft-reprinted cartoon in Punch?" ],
+   "responses": ["154"]
+  },
+  {"tag": "162",
+   "patterns": ["How many years ago was it when he discovered that the optical properties of gold colloids differed from those of the corresponding bulk metal?" ],
+   "responses": ["162"]
+  },
+  {"tag": "September 22, 1791",
+   "patterns": ["When was Michael Faraday born?" ],
+   "responses": ["September 22, 1791"]
+  },
+  {"tag": "the Church of Scotland",
+   "patterns": ["Where did he serve two terms?" ],
+   "responses": ["the Church of Scotland"]
+  },
+  {"tag": "Michael Faraday",
+   "patterns": ["Who was born in Newington Butts, near present-day South London, England?" ],
+   "responses": ["Michael Faraday"]
+  },
+  {"tag": "modern electromagnetic technology",
+   "patterns": ["Institution formed the foundation of what?" ],
+   "responses": ["modern electromagnetic technology"]
+  },
+  {"tag": "the Dutch",
+   "patterns": ["Who was Fort Nassau built by?" ],
+   "responses": ["the Dutch"]
+  },
+  {"tag": "an arena in Uniondale, New York, USA",
+   "patterns": ["What is Nassau Coliseum?" ],
+   "responses": ["an arena in Uniondale, New York, USA"]
+  },
+  {"tag": "a Magnetic Accelerator Cannon station from Halo 2",
+   "patterns": ["What was the Dead or Alive 4 fighting arena modeled after?" ],
+   "responses": ["a Magnetic Accelerator Cannon station from Halo 2"]
+  },
+  {"tag": "1893",
+   "patterns": ["When did Tesla demonstrate wireless communication (radio)?", "When did Tesla demonstrate wireless communication (radio)?" ],
+   "responses": ["1893"]
+  },
+  {"tag": "the tesla",
+   "patterns": ["What is the SI unit measuring magnetic flux density or magnetic induction?", "What is the SI unit measuring magnetic flux density or magnetic induction?" ],
+   "responses": ["the tesla"]
+  },
+  {"tag": "AC",
+   "patterns": ["What type of current did Tesla invent?" ],
+   "responses": ["AC"]
+  },
+  {"tag": "Tesla",
+   "patterns": ["Who was the victor of the War of Currents?" ],
+   "responses": ["Tesla"]
+  },
+  {"tag": "Nikola Tesla",
+   "patterns": ["Who was the victor of the War of Currents?" ],
+   "responses": ["Nikola Tesla"]
+  },
+  {"tag": "the Austrian Polytechnic in Graz ",
+   "patterns": ["Where did Tesla study electrical engineering?" ],
+   "responses": ["the Austrian Polytechnic in Graz "]
+  },
+  {"tag": "Austrian Polytechnic in Graz",
+   "patterns": ["Where did Tesla study electrical engineering?" ],
+   "responses": ["Austrian Polytechnic in Graz"]
+  },
+  {"tag": "1,190,982",
+   "patterns": ["What is Ottawa's population?" ],
+   "responses": ["1,190,982"]
+  },
+  {"tag": "Logging and lumber",
+   "patterns": ["What are Ottawa's primary industries?" ],
+   "responses": ["Logging and lumber"]
+  },
+  {"tag": "the Ottawa 67's",
+   "patterns": ["What is Ottawa's junior ice hockey team?" ],
+   "responses": ["the Ottawa 67's"]
+  },
+  {"tag": "the Ottawa Senators",
+   "patterns": ["What is Ottawa's major league hockey team?" ],
+   "responses": ["the Ottawa Senators"]
+  },
+  {"tag": "Carleton Ravens",
+   "patterns": ["What are Carleton University's athletic teams called?" ],
+   "responses": ["Carleton Ravens"]
+  },
+  {"tag": "Larry O'Brien",
+   "patterns": ["Who is the mayor of Ottawa?", "Who is the mayor of Ottawa?" ],
+   "responses": ["Larry O'Brien"]
+  },
+  {"tag": "eleven",
+   "patterns": ["How many townships are in Ottawa?", "How many townships are in Ottawa?" ],
+   "responses": ["eleven"]
+  },
+  {"tag": "Highway 417, The Queensway",
+   "patterns": ["What's the main highway in Ottawa?" ],
+   "responses": ["Highway 417, The Queensway"]
+  },
+  {"tag": "provinical Highway 417",
+   "patterns": ["What's the main highway in Ottawa?" ],
+   "responses": ["provinical Highway 417"]
+  },
+  {"tag": "Bytown",
+   "patterns": ["What was Ottawa's name in 1850?", "What was Ottawa's name in 1850?" ],
+   "responses": ["Bytown"]
+  },
+  {"tag": "2009",
+   "patterns": ["Based on the average, in what year will the next small tremor occur in Ottawa?", "Based on the average, in what year will the next small tremor occur in Ottawa?" ],
+   "responses": ["2009"]
+  },
+  {"tag": "Irish",
+   "patterns": ["Where were immigrants from in the 1800s?" ],
+   "responses": ["Irish"]
+  },
+  {"tag": "Ireland",
+   "patterns": ["Where were immigrants from in the 1800s?" ],
+   "responses": ["Ireland"]
+  },
+  {"tag": "A holt",
+   "patterns": ["What is an otter's den called?" ],
+   "responses": ["A holt"]
+  },
+  {"tag": "holt",
+   "patterns": ["What is an otter's den called?" ],
+   "responses": ["holt"]
+  },
+  {"tag": "Beside water",
+   "patterns": ["Where do sea otters live?" ],
+   "responses": ["Beside water"]
+  },
+  {"tag": "Pacific coast of North America",
+   "patterns": ["Where do sea otters live?" ],
+   "responses": ["Pacific coast of North America"]
+  },
+  {"tag": "Prey-dependence",
+   "patterns": ["Why are otters vulnerable to prey depletion?" ],
+   "responses": ["Prey-dependence"]
+  },
+  {"tag": "prey-dependency",
+   "patterns": ["Why are otters vulnerable to prey depletion?" ],
+   "responses": ["prey-dependency"]
+  },
+  {"tag": "Spanish for St. James",
+   "patterns": ["What is the origin of the name Santiago?" ],
+   "responses": ["Spanish for St. James"]
+  },
+  {"tag": "sanit + iago, James",
+   "patterns": ["What is the origin of the name Santiago?" ],
+   "responses": ["sanit + iago, James"]
+  },
+  {"tag": "The Chieftains; Loreena McKennitt",
+   "patterns": ["Who has released an album or song named Santiago?" ],
+   "responses": ["The Chieftains; Loreena McKennitt"]
+  },
+  {"tag": "The Chieftains and Loreena McKennitt",
+   "patterns": ["Who has released an album or song named Santiago?" ],
+   "responses": ["The Chieftains and Loreena McKennitt"]
+  },
+  {"tag": "a Spanish knightly order",
+   "patterns": ["What is the Order of Santiago?" ],
+   "responses": ["a Spanish knightly order"]
+  },
+  {"tag": "a Spanish Knightly order",
+   "patterns": ["What is the Order of Santiago?" ],
+   "responses": ["a Spanish Knightly order"]
+  },
+  {"tag": "Benito Santiago, Hugo Santiago, Joey Santiago, Liliana Santiago, Rafael Santiago Maria, Santiago Caballero, Santiago Cabrera; James, son of Zebedee",
+   "patterns": ["What notable people have been named Santiago?" ],
+   "responses": ["Benito Santiago, Hugo Santiago, Joey Santiago, Liliana Santiago, Rafael Santiago Maria, Santiago Caballero, Santiago Cabrera; James, son of Zebedee"]
+  },
+  {"tag": "Benito, Hugo, and others",
+   "patterns": ["What notable people have been named Santiago?" ],
+   "responses": ["Benito, Hugo, and others"]
+  },
+  {"tag": "Gears of War, Rainbow Six: Covert Operations Essentials, Death Foretold by Gabriel García Márquez, Ernest Hemingway's The Old Man and the Sea, the television series Babylon 5, Anne Rice's novel Interview with the Vampire, aulo Coelho's The Alchemist (novel), the television show Friday Night Lights",
+   "patterns": ["What fictional stories include a main character named Santiago?" ],
+   "responses": ["Gears of War, Rainbow Six: Covert Operations Essentials, Death Foretold by Gabriel García Márquez, Ernest Hemingway's The Old Man and the Sea, the television series Babylon 5, Anne Rice's novel Interview with the Vampire, aulo Coelho's The Alchemist (novel), the television show Friday Night Lights"]
+  },
+  {"tag": "Interview with the Vampire, The Alchemist, and others",
+   "patterns": ["What fictional stories include a main character named Santiago?" ],
+   "responses": ["Interview with the Vampire, The Alchemist, and others"]
+  },
+  {"tag": "Santiago is Spanish for St. James. It is also the name of places in Argentina, Brazil, Cape Verde, Chile, Colombia, Costa Rica, Cuba, the Dominican Republic, Ecuador, Guatemala, Jamaica, Mexico, Nicaragua, Panama, Paraguay, Peru, the Philippines, Portugal, Spain, the United States, Venezuela, and the Amazon. It is also the name of a baseball catcher, a film director, a guitarist, an economist, a footballer, a DJ, an actor, and James, son of Zebedee. Fictional people with this name include a character from Gears of War, a character from Chronicle of a Death Foretold, a character in Old Man and the Sea, a character in Babylon 5, a character in Interview with the Vampire, the main character of The Alchemist, and a character on Friday Night Lights. There has also been a battle of Santiago de Cuba, a couple of bands named Santiago, an Order of Santiago, and Santiag as a shortened form of the Reconquista battle cry.",
+   "patterns": ["What is Santiago?" ],
+   "responses": ["Santiago is Spanish for St. James. It is also the name of places in Argentina, Brazil, Cape Verde, Chile, Colombia, Costa Rica, Cuba, the Dominican Republic, Ecuador, Guatemala, Jamaica, Mexico, Nicaragua, Panama, Paraguay, Peru, the Philippines, Portugal, Spain, the United States, Venezuela, and the Amazon. It is also the name of a baseball catcher, a film director, a guitarist, an economist, a footballer, a DJ, an actor, and James, son of Zebedee. Fictional people with this name include a character from Gears of War, a character from Chronicle of a Death Foretold, a character in Old Man and the Sea, a character in Babylon 5, a character in Interview with the Vampire, the main character of The Alchemist, and a character on Friday Night Lights. There has also been a battle of Santiago de Cuba, a couple of bands named Santiago, an Order of Santiago, and Santiago as a shortened form of the Reconquista battle cry."]
+  },
+  {"tag": "cygnets",
+   "patterns": ["What are young swans known as?" ],
+   "responses": ["cygnets"]
+  },
+  {"tag": "Cygnets",
+   "patterns": ["What are young swans known as?", "What is the name of young swans?" ],
+   "responses": ["Cygnets"]
+  },
+  {"tag": "a stepmother transforming her children into swans for 900 years",
+   "patterns": ["What is the Irish legend of the Children of Lir about?" ],
+   "responses": ["a stepmother transforming her children into swans for 900 years"]
+  },
+  {"tag": "A stepmother transforming her children into swans for 900 years",
+   "patterns": ["What is the Irish legend of the Children of Lir about?" ],
+   "responses": ["A stepmother transforming her children into swans for 900 years"]
+  },
+  {"tag": "hamsa or hansa",
+   "patterns": ["What is the Sanskrit word for swan?" ],
+   "responses": ["hamsa or hansa"]
+  },
+  {"tag": "Hamsa or hansa",
+   "patterns": ["What is the Sanskrit word for swan?" ],
+   "responses": ["Hamsa or hansa"]
+  },
+  {"tag": "The Mask and Mirror",
+   "patterns": ["Which album was the song The Bonny Swans from?", "Which album was the song The Bonny Swans from?" ],
+   "responses": ["The Mask and Mirror"]
+  },
+  {"tag": "&#321;ab&#281;d&#378;",
+   "patterns": ["What is the Polish word for swan?" ],
+   "responses": ["&#321;ab&#281;d&#378;"]
+  },
+  {"tag": "Łabędź",
+   "patterns": ["What is the Polish word for swan?" ],
+   "responses": ["Łabędź"]
+  },
+  {"tag": "Swan Lake",
+   "patterns": ["Which ballet by Pyotr Tchaikovsky is partially based on an Ancient German legend about a princess who was turned into a swan?", "Which ballet by Pyotr Tchaikovsky is partially based on an Ancient German legend about a princess who was turned into a swan?" ],
+   "responses": ["Swan Lake"]
+  },
+  {"tag": "It is the largest bird of North America.",
+   "patterns": ["Is the Trumpeter Swan the largest bird?" ],
+   "responses": ["It is the largest bird of North America."]
+  },
+  {"tag": "The Trumpeter Swan is the largest bird of North America",
+   "patterns": ["Is the Trumpeter Swan the largest bird?" ],
+   "responses": ["The Trumpeter Swan is the largest bird of North America"]
+  },
+  {"tag": "Cygnets.",
+   "patterns": ["What is the name of young swans?" ],
+   "responses": ["Cygnets."]
+  },
+  {"tag": "Old English swan.",
+   "patterns": ["Where is the word swan derived from?" ],
+   "responses": ["Old English swan."]
+  },
+  {"tag": "The Old English word swan, derived from the Indo-European root *swen, meaning to sound or to sing",
+   "patterns": ["Where is the word swan derived from?" ],
+   "responses": ["The Old English word swan, derived from the Indo-European root *swen, meaning to sound or to sing"]
+  },
+  {"tag": "The Ugly Duckling fable.",
+   "patterns": ["What is the best known story about a swan?" ],
+   "responses": ["The Ugly Duckling fable."]
+  },
+  {"tag": "The Ugly Duckling",
+   "patterns": ["What is the best known story about a swan?" ],
+   "responses": ["The Ugly Duckling"]
+  },
+  {"tag": "Pen.",
+   "patterns": ["What is the name of an adult female?" ],
+   "responses": ["Pen."]
+  },
+  {"tag": "An adult female swan is called a pen.",
+   "patterns": ["What is the name of an adult female?" ],
+   "responses": ["An adult female swan is called a pen."]
+  },
+  {"tag": "Completely black except for the white flight feathers on its wings.",
+   "patterns": ["What is the color of the Australian Black Swan?" ],
+   "responses": ["Completely black except for the white flight feathers on its wings."]
+  },
+  {"tag": "Completely black except for the white feathers on its wings",
+   "patterns": ["What is the color of the Australian Black Swan?" ],
+   "responses": ["Completely black except for the white feathers on its wings"]
+  },
+  {"tag": "They have the ability to pull down prey substantially heavier than themselves.",
+   "patterns": ["What do tigers' powerfully built legs and shoulders allow tigers to do?" ],
+   "responses": ["They have the ability to pull down prey substantially heavier than themselves."]
+  },
+  {"tag": "have the ability to pull down prey substantially heavier than themselves",
+   "patterns": ["What do tigers' powerfully built legs and shoulders allow tigers to do?" ],
+   "responses": ["have the ability to pull down prey substantially heavier than themselves"]
+  },
+  {"tag": "A tiger will strike at the reptile's eyes with its paws.",
+   "patterns": ["What would a tiger do when seized by a crocodile?" ],
+   "responses": ["A tiger will strike at the reptile's eyes with its paws."]
+  },
+  {"tag": "strike at the reptile's eyes with its paws",
+   "patterns": ["What would a tiger do when seized by a crocodile?" ],
+   "responses": ["strike at the reptile's eyes with its paws"]
+  },
+  {"tag": "It will always have good cover, it will always be close to water and plenty of prey.",
+   "patterns": ["What are the typical features of a tiger country?" ],
+   "responses": ["It will always have good cover, it will always be close to water and plenty of prey."]
+  },
+  {"tag": "Good cover, close to water, and plenty of prey ",
+   "patterns": ["What are the typical features of a tiger country?" ],
+   "responses": ["Good cover, close to water, and plenty of prey "]
+  },
+  {"tag": "60 square kilometers",
+   "patterns": ["About how many square kilometers would be needed to house 3 female tigers?" ],
+   "responses": ["60 square kilometers"]
+  },
+  {"tag": "60",
+   "patterns": ["About how many square kilometers would be needed to house 3 female tigers?" ],
+   "responses": ["60"]
+  },
+  {"tag": "Ska, ska punk, classical, jazz, Rock, Blues, pop, polka, cuban music, mariachi and funk.",
+   "patterns": ["What musical styles is the trumpet used in?" ],
+   "responses": ["Ska, ska punk, classical, jazz, Rock, Blues, pop, polka, cuban music, mariachi and funk."]
+  },
+  {"tag": "The B trumpet.",
+   "patterns": ["What is the most common type of trumpet?" ],
+   "responses": ["The B trumpet."]
+  },
+  {"tag": "By blowing air through closed lips.",
+   "patterns": ["How does a trumpet produce sound?" ],
+   "responses": ["By blowing air through closed lips."]
+  },
+  {"tag": "Somce trumpetes have a slide mechanism built in to compensate.",
+   "patterns": ["How do trumpets compensate for wolf tones?" ],
+   "responses": ["Somce trumpetes have a slide mechanism built in to compensate."]
+  },
+  {"tag": "Some of the scutes eventually fall away from the shell.",
+   "patterns": ["Do scutes fall away from the turtle's shell?" ],
+   "responses": ["Some of the scutes eventually fall away from the shell."]
+  },
+  {"tag": "yes, eventually",
+   "patterns": ["Do scutes fall away from the turtle's shell?" ],
+   "responses": ["yes, eventually"]
+  },
+  {"tag": "Two",
+   "patterns": ["How many groups are turtles broken down into?" ],
+   "responses": ["Two"]
+  },
+  {"tag": "two",
+   "patterns": ["How many groups are turtles broken down into?" ],
+   "responses": ["two"]
+  },
+  {"tag": "They are on the Seychelles and Galápagos Islands.",
+   "patterns": ["Where are the only surviving giant tortoises?" ],
+   "responses": ["They are on the Seychelles and Galápagos Islands."]
+  },
+  {"tag": "Seychelles and Gal�pagos Islands",
+   "patterns": ["Where are the only surviving giant tortoises?" ],
+   "responses": ["Seychelles and Gal�pagos Islands"]
+  },
+  {"tag": "Turtles use their jaws to cut and chew food.",
+   "patterns": ["How do turtles chew food?" ],
+   "responses": ["Turtles use their jaws to cut and chew food."]
+  },
+  {"tag": "Turtles use their jaws to cut and chew food",
+   "patterns": ["How do turtles chew food?" ],
+   "responses": ["Turtles use their jaws to cut and chew food"]
+  },
+  {"tag": "Turtles lay eggs on land.",
+   "patterns": ["Where are turtle eggs layed?" ],
+   "responses": ["Turtles lay eggs on land."]
+  },
+  {"tag": "on land",
+   "patterns": ["Where are turtle eggs layed?" ],
+   "responses": ["on land"]
+  },
+  {"tag": "300",
+   "patterns": ["Approximately how many species of Testudines are alive today?", "Approximately how many species of Testudines are alive today?" ],
+   "responses": ["300"]
+  },
+  {"tag": "Florida",
+   "patterns": ["Where is harvesting wild turtles legal?", "Where is harvesting wild turtles legal?" ],
+   "responses": ["Florida"]
+  },
+  {"tag": "Archelon ischyros",
+   "patterns": ["What was the largest ever chelonian?" ],
+   "responses": ["Archelon ischyros"]
+  },
+  {"tag": "The great letherback sea tutrtle",
+   "patterns": ["What was the largest ever chelonian?" ],
+   "responses": ["The great letherback sea tutrtle"]
+  },
+  {"tag": "the Middle Latin word vitula, meaning stringed instrument",
+   "patterns": ["Where does the word violin come from?" ],
+   "responses": ["the Middle Latin word vitula, meaning stringed instrument"]
+  },
+  {"tag": "the Middle Latin word vitula",
+   "patterns": ["Where does the word violin come from?" ],
+   "responses": ["the Middle Latin word vitula"]
+  },
+  {"tag": "a luthier, or simply a violin maker",
+   "patterns": ["What is someone who makes violins called?" ],
+   "responses": ["a luthier, or simply a violin maker"]
+  },
+  {"tag": "a luthier",
+   "patterns": ["What is someone who makes violins called?" ],
+   "responses": ["a luthier"]
+  },
+  {"tag": "four",
+   "patterns": ["How many strings does a violin usually have?" ],
+   "responses": ["four"]
+  },
+  {"tag": "4",
+   "patterns": ["How many strings does a violin usually have?" ],
+   "responses": ["4"]
+  },
+  {"tag": "different types of wood",
+   "patterns": ["What are violins made of?" ],
+   "responses": ["different types of wood"]
+  },
+  {"tag": "maple, ebony, sheep gut",
+   "patterns": ["What are violins made of?" ],
+   "responses": ["maple, ebony, sheep gut"]
+  },
+  {"tag": "since ancient times",
+   "patterns": ["How long have people been making instruments like violins?" ],
+   "responses": ["since ancient times"]
+  },
+  {"tag": "since 1555",
+   "patterns": ["How long have people been making instruments like violins?" ],
+   "responses": ["since 1555"]
+  },
+  {"tag": "from G3 to C8",
+   "patterns": ["Whate is the usual pitch range of a violin?", "Whate is the usual pitch range of a violin?" ],
+   "responses": ["from G3 to C8"]
+  },
+  {"tag": "Indonesia",
+   "patterns": ["Where did the xylophone originate?" ],
+   "responses": ["Indonesia"]
+  },
+  {"tag": "Arnold Schlick's Spiegel der Orgelmacher und Organisten",
+   "patterns": ["What is the earliest historical reference in Europe?" ],
+   "responses": ["Arnold Schlick's Spiegel der Orgelmacher und Organisten"]
+  },
+  {"tag": "by a bright, sharp tone and high register",
+   "patterns": ["How are western-style xylophones characterised?" ],
+   "responses": ["by a bright, sharp tone and high register"]
+  }
+]
+}
