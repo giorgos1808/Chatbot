@@ -1,6 +1,6 @@
-# Chatbot with Deep Learning Models
+# Chatbot with CNN Models
 
-This project implements a chatbot using various deep learning models, including LeNet5, AlexNet, ResNet, and VGGNet. The chatbot is designed to respond to user input based on the trained models.
+This project implements a chatbot using various Convolutional Neural Network models, including LeNet5, AlexNet, ResNet, and VGGNet. The chatbot is designed to respond to user input based on the trained models.
 
 ## Table of Contents
 
@@ -37,7 +37,7 @@ Before you begin, ensure you have met the following requirements:
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/giorgos1808/Chatbot.git
+   git clone https://github.com/giorgos1808/Chatbot-with-CNN-Models.git
 
 2. **Create a conda environment:**
    ```bash
